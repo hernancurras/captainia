@@ -40,4 +40,12 @@ iv.  Servo Sailwinch
 v.   Serial Remote console. (not yet implemented)
 
 
+References
+------------------------------------------------------
+http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf
+http://www.brokking.net/rpas_main.html
+
+
+
+
 ~                                                            
